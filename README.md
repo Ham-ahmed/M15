@@ -22,7 +22,3 @@ of its kind in its design and provides ...............free content
 ![image here](https://d.top4top.io/p_3983m1r251.jpg))
 
 ![image here](https://f.top4top.io/p_39836wur93.jpg))
-
-![image here](https://g.top4top.io/p_3983mhg984.jpg))
-
-![image here]
