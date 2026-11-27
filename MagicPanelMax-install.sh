@@ -3,7 +3,7 @@
 ##setup command=wget -q "--no-check-certificate" https://raw.githubusercontent.com/Ham-ahmed/M15/refs/heads/main/MagicPanelMax-install.sh -O - | /bin/sh
 
 ######### Only This line to edit with new version ######
-version='15.0'
+version='15.1'
 ##############################################################
 
 PLUGIN_NAME="MagicPanelMax"
